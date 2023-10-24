@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: 7dde8d6dc3c34024f919eab6e6b6423a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Halloween Guises
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: c0cfb220167acd7419fb96f76187a399, type: 3}
+  - {fileID: 12800000, guid: 8bf0f64d964fbd143bd10b65ccf84845, type: 3}
+  - {fileID: 12800000, guid: 243ccfe9f0d05884db67f1367bbb3646, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
